@@ -12,6 +12,7 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #include <sys/shm.h>
+#include <string.h>
 
 
 #ifndef INVALID_SOCKET
